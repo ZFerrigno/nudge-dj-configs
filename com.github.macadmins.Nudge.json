@@ -18,9 +18,9 @@
     },
     "osVersionRequirements": [
         {
-            "aboutUpdateURL_disabled": "https://www.apple.com/uk/macos/sonoma/",
+            "aboutUpdateURL": "https://www.apple.com/uk/macos/sonoma/",
             "requiredInstallationDate": "2024-01-19T18:00:00Z",
-            "requiredMinimumOSVersion": "14.2.3",
+            "requiredMinimumOSVersion": "14.2.1",
             "targetedOSVersionsRule": "13"
         }
     ],
@@ -64,7 +64,7 @@
                 "actionButtonText": "Update Device",
                 "customDeferralButtonText": "Custom",
                 "customDeferralDropdownText": "Defer",
-                "informationButtonText": "More Info",
+                "informationButtonText": "About macOS Sonoma",
                 "mainContentHeader": "Your device will restart during this update",
                 "mainContentNote": "Important",
                 "mainContentSubHeader": "Updates can take around 30 minutes to complete",
