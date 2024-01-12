@@ -2,7 +2,8 @@
     "optionalFeatures": {
         "acceptableApplicationBundleIDs": [
             "com.microsoft.teams",
-            "com.microsoft.teams2"
+            "com.microsoft.teams2",
+            "us.zoom.xos"
         ],
         "acceptableAssertionUsage": false,
         "acceptableCameraUsage": true,
