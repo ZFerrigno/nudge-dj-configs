@@ -20,8 +20,8 @@
         {
             "aboutUpdateURL": "https://www.apple.com/uk/macos/sonoma/",
             "requiredInstallationDate": "2024-01-19T18:00:00Z",
-            "requiredMinimumOSVersion": "14.2.2",
-            "targetedOSVersionsRule": "14"
+            "requiredMinimumOSVersion": "14.2.1",
+            "targetedOSVersionsRule": "13"
         }
     ],
     "userExperience": {
