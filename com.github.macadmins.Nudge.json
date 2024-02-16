@@ -69,7 +69,7 @@
                 "mainContentHeader": "Your device will restart during this update",
                 "mainContentNote": "Important",
                 "mainContentSubHeader": "Updates can take around 30 minutes to complete",
-                "mainContentText": "In order to apply the update, you must open Self Service and run the Policy - Make Admin option before running the OS update.\n\nA fully up-to-date device is required to ensure that IT can properly protect your device.\n\nIf you do not update your device, you will lose access to some items necessary for your day-to-day tasks.\n\nTo begin the updates, simply click on the Update Device button and follow the provided steps.",
+                "mainContentText": "A fully up-to-date device is required to ensure that IT can properly protect your device.\n\nIf you do not update your device, you will lose access to some items necessary for your day-to-day tasks.\n\nTo begin the updates, simply click on the Update Device button and follow the provided steps.",
                 "mainHeader": "Your laptop needs to be updated",
                 "oneDayDeferralButtonText": "One Day",
                 "oneHourDeferralButtonText": "One Hour",
